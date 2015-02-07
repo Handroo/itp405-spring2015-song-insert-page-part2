@@ -1,0 +1,15 @@
+{
+  "require":{
+    "symfony/http-foundation": "2.6.4"
+  },
+  "autoload":{
+    "files":[],
+    "classmap":[
+
+    ],
+    "psr-4":{
+      "Itp\\Music\\":"Itp/Music",
+      "Itp\\Base\\":"Itp/Base"
+    }
+  }
+}
